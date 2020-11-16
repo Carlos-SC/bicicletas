@@ -2,3 +2,7 @@ body {
 	background-color: grey;
 	color: red;
 }
+
+h1 {
+	font-style: oblique;
+}
